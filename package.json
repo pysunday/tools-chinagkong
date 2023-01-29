@@ -1,0 +1,14 @@
+{
+  "name": "chinagkong",
+  "type": "tools",
+  "version": "1.0.0",
+  "description": "工控信息网供应商信息采集",
+  "bin": [
+    "chinagkong"
+  ],
+  "keywords": [
+    "sunday",
+    "tools"
+  ],
+  "author": "ct"
+}
